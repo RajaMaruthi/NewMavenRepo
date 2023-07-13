@@ -31,5 +31,11 @@ public class AutomationApplications
 	}
 	
 	
+	public void sample()
+	{
+		System.out.println("Hello Sample");
+	}
+	
+	
 
 }
